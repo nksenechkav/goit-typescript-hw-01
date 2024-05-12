@@ -1,8 +1,8 @@
-import './style.css'
-
-function add(num1: number, num2: number) {
-   return num1 + num2;
-  }
-  
-  console.log(add(1, 2));
-  
+import './style.css';
+import './basic/1.ts'; 
+import './basic/2.ts'; 
+import './basic/3.ts'; 
+import './basic/4.ts'; 
+import './basic/5.ts'; 
+import './basic/6.ts'; 
+import './basic/7.ts'; 
