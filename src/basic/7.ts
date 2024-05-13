@@ -5,7 +5,7 @@ interface Page {
     status: 'open' | 'close'; // Літеральний тип
     details?: {
       createAt: Date;
-      updateAt?: Date; // Адреса є необов'язковою
+      updateAt?: Date; // Дата є необов'язковою
     };
   }
   
